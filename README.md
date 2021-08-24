@@ -5,7 +5,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/n3x98?label=follow&style=social)](https://github.com/n3x98)<br>
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=n3x98&column=7"/>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=n3x98&count_private=true&column=7"/>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=n3x98&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
